@@ -6,5 +6,7 @@ we created a demo of main page of our web application and
 <ul>
 <li>Organizer view
   <ul><li>posts page</li></ul></li>
-<li>Student view</li>
-<li>Faculty view</li></ul>
+<li>Student view<ul>
+  <li>Connections</li></ul></li>
+<li>Faculty view<ul>
+  <li>Companies</li></ul></li></ul>
