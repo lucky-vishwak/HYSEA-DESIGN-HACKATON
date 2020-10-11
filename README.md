@@ -10,3 +10,5 @@ we created a demo of main page of our web application and
   <li>Connections</li></ul></li>
 <li>Faculty view<ul>
   <li>Companies</li></ul></li></ul>
+<h1>View Directions</h1>
+<p><b>Main page</b> -> sign-in -> Demo Pages</p> 
