@@ -12,3 +12,8 @@ we created a demo of main page of our web application and
   <li>Companies</li></ul></li></ul>
 <h1>View Directions</h1>
 <p><b>Main page</b> -> sign-in -> Demo Pages</p> 
+<h4>Team members</h4>
+<ul>
+<li>Sadam Rohith</li>
+<li>L Vishwak Reddy</li>
+<li>K Nanda Kishor</li></ul>
