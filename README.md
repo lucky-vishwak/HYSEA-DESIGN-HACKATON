@@ -4,6 +4,7 @@ we created a demo of main page of our web application and
 <h4>Start with main.html page</h4>
 <b>Responssive tabs</b>
 <ul>
-<li>Organizer view</li>
+<li>Organizer view
+  <ul><li>posts page</li></ul></li>
 <li>Student view</li>
 <li>Faculty view</li></ul>
